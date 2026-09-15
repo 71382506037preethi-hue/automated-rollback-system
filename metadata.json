@@ -1,0 +1,6 @@
+{
+  "name": "ExamSafe - Automated Rollback for Online Examination System Using DevOps",
+  "description": "College project demonstrating automated failure detection and DevOps rollback for online examination systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
